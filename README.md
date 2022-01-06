@@ -1,5 +1,5 @@
 # Approach to improve RGB-based Salient Object Detection using Depth Information and Knowledge Distillation
-2021년 한국지능정보시스템학회 추계 학술대회 우수 논문상
+2021년 한국지능정보시스템학회 추계 학술대회 우수 논문상 ([website](http://www.kiiss.or.kr/conference/conf/sub05.html))
 
 ## Author
 * [JinHong Min](https://github.com/alswlsghd320)
