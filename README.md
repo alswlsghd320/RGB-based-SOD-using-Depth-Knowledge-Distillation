@@ -6,7 +6,7 @@
 * [Eunbi Park](https://github.com/bluvory)
 * Hongju Lee
 
-//![Teaser image](./docs/stylegan2-teaser-1024x256.png)
+![image](docs/figure2.png)
 
 Paper: *<upload later>*<br>
 
