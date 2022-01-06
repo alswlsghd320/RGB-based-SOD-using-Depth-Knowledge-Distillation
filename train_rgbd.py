@@ -44,7 +44,7 @@ def train_rgbd(args):
     model_estimator = depth_estimator().to(device)
     model = fusion().to(device)
 
-    #
+    #Load
 
     opt_rgb = torch.optim.Adam(model_rgb.parameters(), args.lr)
     opt_depth = torch.optim.Adam(model_depth.parameters(), args.lr)
