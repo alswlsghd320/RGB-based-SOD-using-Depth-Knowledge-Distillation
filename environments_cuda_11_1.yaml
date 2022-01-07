@@ -1,4 +1,4 @@
-name: ksc
+name: kiiss
 channels:
   - pytorch-lts
   - nvidia
