@@ -61,4 +61,4 @@ python test.py --path <model_path> --model <PoolNet or BASNet or u2net> --datase
 ## Citation
 
 ## Contact us
-If you have any questions, please contact us [JinHong Min](alswlsghd320@naver.com)
+If you have any questions, please contact us (alswlsghd320@naver.com)
