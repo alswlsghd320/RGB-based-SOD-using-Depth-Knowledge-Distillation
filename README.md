@@ -20,7 +20,10 @@ conda env create -f environment_cuda11_1.yml # For CUDA 11.1
 ```
 
 ## Training
-We train our models with NJU2K, SIP, DUT-RGBD/train
+We train our models with
+  [NJU2K](https://paperswithcode.com/dataset/nju2k),
+  [SIP](https://paperswithcode.com/dataset/sip),
+  [DUT-RGBD/train]()
 
 ```.bash
 '''
