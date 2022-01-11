@@ -64,6 +64,7 @@ python test.py --path <model_path> --model <PoolNet or BASNet or u2net> --datase
 
 ## Results
 [table1] [result figure]
+![figure1](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure1.png)
 
 ## Citation
 
