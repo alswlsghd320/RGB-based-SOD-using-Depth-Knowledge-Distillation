@@ -60,12 +60,15 @@ python test.py --path <model_path> --model <PoolNet or BASNet or u2net> --datase
 ```
 
 ## Results
+### Quantitative Comparison (Knowledge Distillation)
 
-### Model Architecture <hr>
+### Quantitative Comparison (hypterparameter $\alpha$)
+
+### Model Architecture
 ![figure1](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure1.png)
-### Qualitative Comparison (Knowledge Distillation) <hr>
+### Qualitative Comparison (Knowledge Distillation)
 ![figure2](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure2.png)
-### Qualitative Comparison (Depth Knowledge Distillation) <hr>
+### Qualitative Comparison (Depth Knowledge Distillation)
 ![figure3](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure3.png)
 
 ## Citation
