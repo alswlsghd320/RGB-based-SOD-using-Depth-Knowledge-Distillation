@@ -65,7 +65,7 @@ python test.py --path <model_path> --model <PoolNet or BASNet or u2net> --datase
 ## Results
 [table1] [result figure]
 ![figure1](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure1.png)
-<Figure1> Model architecture
+\<Figure1\> Model architecture
 ![figure2](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure2.png)
 <Figure2> Visual comparison of the degree of improvement of model performance through knowledge distillation techniques
 ![figure3](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/figure3.png)
