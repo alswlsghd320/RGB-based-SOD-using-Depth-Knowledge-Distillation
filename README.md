@@ -62,9 +62,10 @@ python test.py --path <model_path> --model <PoolNet or BASNet or u2net> --datase
 
 ## Results
 ### Quantitative Comparison (Knowledge Distillation)
-![table1](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/table1.png)
+<img src="https://github.com/alswlsghd320/KIISS2021/blob/main/figure/table1.png" width="640" height="480">
+
 ### Quantitative Comparison (hypterparameter &alpha;)
-![table2](https://github.com/alswlsghd320/KIISS2021/blob/main/figure/table2.png)
+<img src="https://github.com/alswlsghd320/KIISS2021/blob/main/figure/table2.png" width="640" height="480">
 
 <!--
 ### Model Architecture
